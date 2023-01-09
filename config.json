@@ -1,7 +1,7 @@
 {
 	"host": "kawagami.aternos.me",
 	"port": "42924",
-	"username": "ServerMaster",
+	"username": "Server_Master",
 	"logger": [ true
 		,"true : display not necessary logs. (ex: key inputs on bot)",
 		"false : display only necessary logs. (ex: errors on bot & server)"
